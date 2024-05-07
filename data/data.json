@@ -1,0 +1,23 @@
+{
+  "fakerData": {
+    "Fname": "Hank",
+    "Lname": "Strosin",
+    "number": "877-466-4163",
+    "city": "West Jaylin",
+    "pin": "597209",
+    "companyName": "ROI",
+    "address": "57685 Gleason Flat",
+    "VAT": "DGNH-MOO9"
+  },
+  "LoginPageData": {
+    "notification": "Please turn on notifications",
+    "signInPage": "Sign in",
+    "emailpageText": "Enter your email address",
+    "passwordpageText": "Enter your password",
+    "travel": "Travel more, spend less",
+    "more": "More for you",
+    "destination_stay": "goa",
+    "wishlistName": "My favourite",
+    "destination_flight": "agra"
+  }
+}
